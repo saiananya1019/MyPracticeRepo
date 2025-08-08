@@ -1,2 +1,2 @@
-<greeting>Hello from GitWork branch</greeting>
-<update>Some updates from GitWork</update>
+<greeting>Hello from Master branch</greeting>
+<note>Conflicting changes in master</note>
